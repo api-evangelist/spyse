@@ -1,4 +1,16 @@
 aid: spyse
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/spyse.png
 name: Spyse
 description: "Access data on all Internet assets and build powerful attack surface management applications"
 url: https://spyse-dev.readme.io/reference/quick-start
