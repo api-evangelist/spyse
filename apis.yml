@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/spyse.png
 name: Spyse
 description: "Access data on all Internet assets and build powerful attack surface management applications"
 url: https://spyse-dev.readme.io/reference/quick-start
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
