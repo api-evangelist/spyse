@@ -39,7 +39,6 @@ apis:
   - name: Spyse
     description: "Access data on all Internet assets and build powerful attack surface management applications"
     humanURL: https://spyse-dev.readme.io/reference/quick-start
-    baseURL: https://spyse-dev.readme.io/reference/quick-start
     tags:
       - Security
     properties:
